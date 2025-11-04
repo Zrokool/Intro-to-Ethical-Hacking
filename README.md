@@ -230,7 +230,7 @@ Hikma Foundation empowers learners with cybersecurity knowledge to build safer d
 
 ---------------------------------------------------------------
 
-## 📖 Additional Resources
+## 📖 Additional Resources - READ THIS
 
 - [OWASP Top 10](https://owasp.org/www-project-top-ten/)
 - [EC-Council Code of Ethics](https://www.eccouncil.org/code-of-ethics/)

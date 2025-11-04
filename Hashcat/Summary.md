@@ -1,4 +1,4 @@
-# Tool Hashcat for Cracking Passwords
+# Tool Hashcat for Cracking Passwords - READ THIS
 🎯 Quick Start for Students:
 The 4 Password Hashes They'll Crack:
 482c811da5d5b4bc6d497ffa98491e38          (MD5 - will crack to: password123)

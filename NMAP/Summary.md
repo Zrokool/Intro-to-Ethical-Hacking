@@ -1,5 +1,5 @@
 
-# Tool NMAP for Juice Shop 
+# Tool NMAP for Juice Shop  - READ THIS
 🎯 The 4 Essential Commands for Students:
 
 # Command 1: Basic Port Scan - "Is anyone home?"

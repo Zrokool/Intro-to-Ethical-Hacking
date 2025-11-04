@@ -1,5 +1,5 @@
-# Hashcat Password Cracking - Beginner's Guide
-## Learn Cybersecurity Through Password Security
+# Hashcat Password Cracking - Beginner's Guide - READ THIS
+## Learn Cybersecurity Through Password Security 
 
 ---
 
