@@ -93,6 +93,8 @@ sudo systemctl enable docker
 sudo docker pull bkimminich/juice-shop
 sudo docker run -d -p 3000:3000 bkimminich/juice-shop
 
+#Common Error pulling image, solution: restart docker with
+# Sudo systemclt restart docker 
 # Verify it's running
 sudo docker ps
 ```
