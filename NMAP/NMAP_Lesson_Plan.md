@@ -261,6 +261,11 @@ localhost      ← Your computer
 
 **Translation:** "Hey nmap, tell me WHAT program is running on port 3000, and what VERSION it is"
 
+***HINT Store the output and group / format it in a easy readable way 
+```bash
+nmap -sV -p 3000 localhost | tee nmap_output.txt | grep -iE "SF | X- | Access-Control | Content-Type"
+```
+
 ### What You'll See
 
 ```
